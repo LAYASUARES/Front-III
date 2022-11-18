@@ -3,7 +3,15 @@
 //import {Login} from "./pages/Login"
 //import { QuartaAula } from "./lessons/fourthClass"
 
-import { SetimaAula } from "./lessons/seventhClass"
+import { DecimaQuintaAula } from "./lessons/DecimaQuintaClass"
+
+//import { DecimaQuartaAula } from "./lessons/DecimaQuartaClass"
+
+//import { DecimaTerceiraAula } from "./lessons/DecimaTerceiraClass"
+
+
+
+//import { SetimaAula } from "./lessons/seventhClass"
 //import { QuintaAula } from "./lessons/fifthClass"
 //import { DHGames } from "./pages/Games"
 
@@ -16,9 +24,12 @@ function App() {
     //<TerceiraAula />
     //<QuartaAula />
     //<QuintaAula />
-    <SetimaAula />
+    //<SetimaAula />
     //<InstagramTimeLine />
     //<DHGames />
+   //<DecimaTerceiraAula />
+   //<DecimaQuartaAula />
+   <DecimaQuintaAula />
 
   )
 }
